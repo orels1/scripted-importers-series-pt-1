@@ -1,2 +1,3 @@
-# scripted-importers-series-pt-1
-Sources for the ScriptedImporters part 1 article
+# Sources for the Part 1 of the ScriptedImporters series
+
+Read it here!
