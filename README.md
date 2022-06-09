@@ -10,7 +10,7 @@
   - FancyTextImporter.cs: ScriptedImporter for `.fancytext` format
   - JsonPrimitiveImporter.cs: ScriptedImporter for `.jsonprimitive` format
   - ShaderToTexture.cs: ScriptedImporter for `.shadertotex` format
-- FancytextTest.fancy: Example textfile for TextAsset generation
+- FancytextTest.fancytext: Example textfile for TextAsset generation
 - JsonTest.jsonprimitive: Example json for creating a primitive prefab
 - ShaderToTextureTest.shadertotex: Example shader for texture generation
 
